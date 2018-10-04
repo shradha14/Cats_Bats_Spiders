@@ -62,6 +62,8 @@
 
 - Bio: Studying at WeThinkCode_, South Africa.
 
-#### Name: [Germán Aguilera](https://github.com/germmand)
+#### Name: [shradha](https://github.com/shradha14)
 
-- Bio: Mid-Senior Software Developer.
+- Bio: Studying at Jaypee university, Guna
+
+
